@@ -1,0 +1,11 @@
+.button{
+    background-color: #dddddd;
+    height: 18px;
+    width: 18px;
+    justify-content: center;
+    margin-left: 5px;
+    display: inline-flex;
+}
+.button.used {
+    background: rgb(204, 64, 64);
+  }

@@ -1,0 +1,14 @@
+.hanged {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 300px;
+  margin: auto;
+  user-select: none;
+}
+
+.haut{
+  display: flex;
+  justify-content: center;
+}

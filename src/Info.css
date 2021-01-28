@@ -1,0 +1,17 @@
+.info{
+    font-size: xx-large;
+}
+
+.info.WIN{
+    font-size: large;
+    background-color: green ;
+    text-align: center;
+    padding : 5px;
+}
+
+.info.LOST{
+    font-size: large;
+    background-color: red ;
+    text-align: center;
+    padding : 5px;
+}
